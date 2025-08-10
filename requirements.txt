@@ -1,0 +1,9 @@
+unstructured[pdf]
+lxml
+langchain
+langchain-community
+langchain-groq
+langchain-google-genai
+python-dotenv
+pinecone-client
+sentence-transformers
