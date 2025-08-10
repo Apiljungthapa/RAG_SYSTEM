@@ -50,4 +50,5 @@ PINECONE_API="YOUR PINECONE_API_KEY"
 
 ### 6.  Run the Streamlit UI Application
 ```bash
-streamlit run app.py```
+streamlit run app.py
+```
