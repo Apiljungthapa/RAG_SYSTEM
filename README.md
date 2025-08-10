@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```
 
 ### 4. Set Up Environment Variables
-## Create a .env file in the project root directory and add your API keys (you'll need to obtain these from the respective services):
+#### Create a .env file in the project root directory and add your API keys (you'll need to obtain these from the respective services):
 ```bash
 GEMINI_API_KEY="YOUR GEMINI_API_KEY"
 LANGCHAIN_API_KEY="YOUR LANGCHAIN_API_KEY"
